@@ -1,0 +1,501 @@
+appId,name,is_free,genres0,genres1,release_date,review_score,review_score_desc,total_positive,total_negative,total_reviews
+730,Counter-Strike: Global Offensive,TRUE,Action,Free to Play,"21 Aug, 2012",8,Very Positive,2787462,421557,3209019
+1551360,Forza Horizon 5,FALSE,Action,Adventure,"8 Nov, 2021",6,Mostly Positive,6719,2497,9216
+1203220,NARAKA: BLADEPOINT,FALSE,Action,Adventure,"11 Aug, 2021",6,Mostly Positive,44338,11135,55473
+578080,PUBG: BATTLEGROUNDS,FALSE,Action,Adventure,"21 Dec, 2017",5,Mixed,826077,705170,1531247
+489830,The Elder Scrolls V: Skyrim Special Edition,FALSE,RPG,#,"27 Oct, 2016",8,Very Positive,78873,4322,83195
+1172470,Apex Legends?,TRUE,Action,Adventure,"5 Nov, 2020",8,Very Positive,572,79,651
+1244460,Jurassic World Evolution 2,FALSE,Simulation,Strategy,"9 Nov, 2021",6,Mostly Positive,852,348,1200
+1466860,Age of Empires IV,FALSE,Strategy,#,"28 Oct, 2021",8,Very Positive,9068,1527,10595
+1569040,Football Manager 2022,FALSE,Simulation,Sports,"8 Nov, 2021",8,Very Positive,2367,184,2551
+1063730,New World,FALSE,Action,Adventure,"28 Sep, 2021",6,Mostly Positive,109192,38185,147377
+1174180,Red Dead Redemption 2,FALSE,Action,Adventure,"5 Dec, 2019",8,Very Positive,165827,25330,191157
+1085660,Destiny 2,TRUE,Action,Adventure,"1 Oct, 2019",8,Very Positive,88262,17633,105895
+1506830,FIFA 22,FALSE,Simulation,Sports,"30 Sep, 2021",8,Very Positive,7518,1722,9240
+548430,Deep Rock Galactic,FALSE,Action,#,"13 May, 2020",9,Overwhelmingly Positive,80181,2213,82394
+924970,Back 4 Blood,FALSE,Action,#,"12 Oct, 2021",6,Mostly Positive,10020,4131,14151
+381210,Dead by Daylight,FALSE,Action,#,"14 Jun, 2016",8,Very Positive,321507,69069,390576
+39210,FINAL FANTASY XIV Online,FALSE,Massively Multiplayer,RPG,"18 Feb, 2014",8,Very Positive,37662,4764,42426
+289070,Sid Meier¡¯s Civilization? VI,FALSE,Strategy,#,"20 Oct, 2016",8,Very Positive,109769,22459,132228
+306130,The Elder Scrolls? Online,FALSE,Massively Multiplayer,RPG,"22 May, 2017",8,Very Positive,74727,14661,89388
+236390,War Thunder,TRUE,Action,Free to Play,"15 Aug, 2013",6,Mostly Positive,1209,440,1649
+230410,Warframe,TRUE,Action,Free to Play,"25 Mar, 2013",8,Very Positive,2580,324,2904
+271590,Grand Theft Auto V,FALSE,Action,Adventure,"13 Apr, 2015",8,Very Positive,928379,175112,1103491
+278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,FALSE,Action,#,"13 May, 2014",8,Very Positive,7022,1325,8347
+1092790,Inscryption,FALSE,Adventure,Indie,"19 Oct, 2021",9,Overwhelmingly Positive,17842,735,18577
+1644960,NBA 2K22,FALSE,Simulation,Sports,"9 Sep, 2021",5,Mixed,3027,3307,6334
+739630,Phasmophobia,FALSE,Action,Indie,"18 Sep, 2020",9,Overwhelmingly Positive,278144,7584,285728
+1222140,Detroit: Become Human,FALSE,Action,Adventure,"18 Jun, 2020",8,Very Positive,29768,2792,32560
+1286830,STAR WARS?: The Old Republic?,TRUE,Free to Play,Massively Multiplayer,"21 Jul, 2020",8,Very Positive,156,29,185
+236850,Europa Universalis IV,FALSE,Simulation,Strategy,"13 Aug, 2013",8,Very Positive,58642,9597,68239
+1088850,Marvel's Guardians of the Galaxy,FALSE,Action,Adventure,"26 Oct, 2021",8,Very Positive,4157,272,4429
+582660,Black Desert,FALSE,Action,Adventure,"14 Sep, 2021",6,Mostly Positive,27742,8687,36429
+570,Dota 2,TRUE,Action,Free to Play,"9 Jul, 2013",8,Very Positive,12325,2098,14423
+359550,Tom Clancy's Rainbow Six? Siege,FALSE,Action,#,"1 Dec, 2015",8,Very Positive,731887,100061,831948
+252490,Rust,FALSE,Action,Adventure,"8 Feb, 2018",8,Very Positive,484253,70748,555001
+1096530,Solasta: Crown of the Magister,FALSE,Adventure,RPG,"27 May, 2021",8,Very Positive,7037,770,7807
+1222670,The Sims? 4,FALSE,Casual,Simulation,"18 Jun, 2020",8,Very Positive,26952,2817,29769
+477160,Human: Fall Flat,FALSE,Adventure,Casual,"22 Jul, 2016",8,Very Positive,107844,6324,114168
+1135690,Unpacking,FALSE,Casual,Indie,"1 Nov, 2021",8,Very Positive,1519,177,1696
+444200,World of Tanks Blitz,TRUE,Action,Free to Play,"9 Nov, 2016",6,Mostly Positive,628,186,814
+346110,ARK: Survival Evolved,FALSE,Action,Adventure,"27 Aug, 2017",8,Very Positive,307761,69568,377329
+8870,BioShock Infinite,FALSE,Action,#,"25 Mar, 2013",9,Overwhelmingly Positive,83192,4240,87432
+628070,Romance of the Three Kingdoms XI with Power Up Kit,FALSE,Strategy,#,"16 Jan, 2018",8,Very Positive,1492,141,1633
+897730,Among Trees,FALSE,Adventure,Indie,"10 Nov, 2021",5,Mixed,68,51,119
+394360,Hearts of Iron IV,FALSE,Simulation,Strategy,"6 Jun, 2016",8,Very Positive,101735,8539,110274
+444090,Paladins?,TRUE,Action,Free to Play,"8 May, 2018",8,Very Positive,7721,1588,9309
+440,Team Fortress 2,TRUE,Action,Free to Play,"10 Oct, 2007",8,Very Positive,11671,975,12646
+945360,Among Us,FALSE,Casual,#,"16 Nov, 2018",8,Very Positive,478784,36536,515320
+632470,Disco Elysium - The Final Cut,FALSE,RPG,#,"15 Oct, 2019",8,Very Positive,38097,2328,40425
+413150,Stardew Valley,FALSE,Indie,RPG,"26 Feb, 2016",9,Overwhelmingly Positive,332345,6768,339113
+255710,Cities: Skylines,FALSE,Simulation,Strategy,"10 Mar, 2015",8,Very Positive,120880,8921,129801
+1151340,Fallout 76,FALSE,RPG,#,"14 Apr, 2020",6,Mostly Positive,22751,7060,29811
+294100,RimWorld,FALSE,Indie,Simulation,"17 Oct, 2018",9,Overwhelmingly Positive,95611,1716,97327
+1172620,Sea of Thieves,FALSE,Action,Adventure,"3 Jun, 2020",8,Very Positive,132568,13734,146302
+291550,Brawlhalla,TRUE,Action,Free to Play,"17 Oct, 2017",8,Very Positive,2393,399,2792
+594650,Hunt: Showdown,FALSE,Action,#,"27 Aug, 2019",8,Very Positive,69401,13529,82930
+1490890,Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles,FALSE,Action,Adventure,"15 Oct, 2021",8,Very Positive,4207,565,4772
+1250410,Microsoft Flight Simulator,FALSE,Simulationen,#,"17 Aug, 2020",6,Mostly Positive,22164,7204,29368
+1086940,Baldur's Gate 3,FALSE,Adventure,RPG,"6 Oct, 2020",8,Very Positive,36597,4830,41427
+892970,Valheim,FALSE,Action,Adventure,"2 Feb, 2021",9,Overwhelmingly Positive,232335,10271,242606
+648800,Raft,FALSE,Adventure,Indie,"23 May, 2018",8,Very Positive,112482,8476,120958
+955050,Bright Memory,FALSE,Action,Adventure,"25 Mar, 2020",8,Very Positive,25074,2145,27219
+13500,Prince of Persia: Warrior Within?,FALSE,Action,Adventure,"27 Aug, 2009",8,Very Positive,1365,223,1588
+1426210,It Takes Two,FALSE,Action,Adventure,"25 Mar, 2021",9,Overwhelmingly Positive,40610,1767,42377
+13600,Prince of Persia?: The Sands of Time,FALSE,Action,Adventure,"27 Aug, 2009",8,Very Positive,1604,236,1840
+13530,Prince of Persia: The Two Thrones?,FALSE,Action,Adventure,"27 Aug, 2009",6,Mostly Positive,787,217,1004
+960090,Bloons TD 6,FALSE,Strategy,#,"17 Dec, 2018",9,Overwhelmingly Positive,116594,3140,119734
+221680,Rocksmith? 2014 Edition - Remastered,FALSE,Casual,Simulation,"4 Oct, 2016",8,Very Positive,9016,894,9910
+1091500,Cyberpunk 2077,FALSE,RPG,#,"9 Dec, 2020",6,Mostly Positive,295262,92443,387705
+19980,Prince of Persia?,FALSE,Action,Adventure,"10 Dec, 2008",6,Mostly Positive,1466,374,1840
+33320,Prince of Persia: The Forgotten Sands?,FALSE,Action,Adventure,"10 Jun, 2010",5,Mixed,851,388,1239
+898750,Super Robot Wars 30,FALSE,RPG,Simulation,"27 Oct, 2021",8,Very Positive,1720,127,1847
+386360,SMITE?,TRUE,Action,Free to Play,"8 Sep, 2015",8,Very Positive,1069,249,1318
+552990,World of Warships,TRUE,Action,Free to Play,"15 Nov, 2017",6,Mostly Positive,492,160,652
+644830,The Surge 2,FALSE,Action,RPG,"23 Sep, 2019",6,Mostly Positive,3303,884,4187
+976730,Halo: The Master Chief Collection,FALSE,Action,#,"3 Dec, 2019",8,Very Positive,145979,11181,157160
+250900,The Binding of Isaac: Rebirth,FALSE,Action,#,"4 Nov, 2014",9,Overwhelmingly Positive,149471,3297,152768
+761620,Beholder 2,FALSE,Adventure,Indie,"4 Dec, 2018",8,Very Positive,3244,415,3659
+311210,Call of Duty?: Black Ops III,FALSE,Action,Adventure,"5 Nov, 2015",8,Very Positive,43524,9880,53404
+105600,Terraria,FALSE,Action,Adventure,"16 May, 2011",9,Overwhelmingly Positive,644868,13005,657873
+227300,Euro Truck Simulator 2,FALSE,Indie,Simulation,"12 Oct, 2012",9,Overwhelmingly Positive,354604,9128,363732
+1721470,Poppy Playtime,FALSE,Action,Adventure,"12 Oct, 2021",8,Very Positive,4198,365,4563
+768520,Red Solstice 2: Survivors,FALSE,RPG,Strategy,"17 Jun, 2021",6,Mostly Positive,1307,549,1856
+374320,DARK SOULS? III,FALSE,Action,#,"11 Apr, 2016",8,Very Positive,178842,11083,189925
+526870,Satisfactory,FALSE,Adventure,Indie,"8 Jun, 2020",9,Overwhelmingly Positive,62062,1702,63764
+740130,Tales of Arise,FALSE,Action,RPG,"9 Sep, 2021",8,Very Positive,10449,1009,11458
+242760,The Forest,FALSE,Action,Adventure,"30 Apr, 2018",8,Very Positive,251242,13337,264579
+281990,Stellaris,FALSE,Simulation,Strategy,"9 May, 2016",8,Very Positive,71826,10227,82053
+594570,Total War: WARHAMMER II,FALSE,Action,Strategy,"28 Sep, 2017",8,Very Positive,66663,4427,71090
+1547890,Let's Build a Zoo,FALSE,Simulation,Strategy,"5 Nov, 2021",8,Very Positive,398,41,439
+1062090,Timberborn,FALSE,Indie,Simulation,"15 Sep, 2021",9,Overwhelmingly Positive,5161,246,5407
+1293830,Forza Horizon 4,FALSE,Racing,#,"9 Mar, 2021",8,Very Positive,59831,10334,70165
+261550,Mount & Blade II: Bannerlord,FALSE,Azione,GDR,"30 Mar, 2020",8,Very Positive,117911,17447,135358
+582010,Monster Hunter: World,FALSE,Action,#,"9 Aug, 2018",8,Very Positive,173942,27476,201418
+814380,Sekiro?: Shadows Die Twice - GOTY Edition,FALSE,Action,Adventure,"21 Mar, 2019",8,Very Positive,102818,5969,108787
+620980,Beat Saber,FALSE,Indie,#,"21 May, 2019",9,Overwhelmingly Positive,49721,2016,51737
+1158310,Crusader Kings III,FALSE,RPG,Simulation,"1 Sep, 2020",8,Very Positive,38984,2766,41750
+1435790,Escape Simulator,FALSE,Adventure,Casual,"19 Oct, 2021",8,Very Positive,563,42,605
+518790,theHunter: Call of the Wild?,FALSE,Adventure,Simulation,"16 Feb, 2017",8,Very Positive,64860,10106,74966
+221100,DayZ,FALSE,Action,Adventure,"13 Dec, 2018",5,Mixed,162756,70883,233639
+1167630,Teardown,FALSE,Action,Indie,"29 Oct, 2020",9,Overwhelmingly Positive,23555,1081,24636
+427520,Factorio,FALSE,Casual,Indie,"14 Aug, 2020",9,Overwhelmingly Positive,101746,1160,102906
+570940,DARK SOULS?: REMASTERED,FALSE,Action,#,"23 May, 2018",8,Very Positive,27414,4284,31698
+686810,Hell Let Loose,FALSE,Action,Indie,"27 Jul, 2021",8,Very Positive,29956,4904,34860
+270880,American Truck Simulator,FALSE,Indie,Simulation,"2 Feb, 2016",9,Overwhelmingly Positive,71154,2518,73672
+703080,Planet Zoo,FALSE,Casual,Simulation,"5 Nov, 2019",8,Very Positive,36852,4248,41100
+815370,Green Hell,FALSE,Action,Adventure,"5 Sep, 2019",8,Very Positive,25772,3719,29491
+842180,Prison Simulator,FALSE,Action,Adventure,"4 Nov, 2021",8,Very Positive,361,65,426
+813780,Age of Empires II: Definitive Edition,FALSE,Strategy,#,"14 Nov, 2019",8,Very Positive,75596,4708,80304
+1184370,Pathfinder: Wrath of the Righteous,FALSE,Adventure,Indie,"2 Sep, 2021",8,Very Positive,7856,1778,9634
+780290,Gloomhaven,FALSE,Adventure,RPG,"20 Oct, 2021",8,Very Positive,4936,718,5654
+377160,Fallout 4,FALSE,RPG,#,"9 Nov, 2015",8,Very Positive,131128,31247,162375
+269190,Edge Of Eternity,FALSE,Action,Adventure,"8 Jun, 2021",6,Mostly Positive,1862,500,2362
+284160,BeamNG.drive,FALSE,Racing,Simulation,"29 May, 2015",9,Overwhelmingly Positive,83216,2930,86146
+266410,iRacing,FALSE,Massively Multiplayer,Racing,"12 Jan, 2015",8,Very Positive,843,177,1020
+218620,PAYDAY 2,FALSE,Action,RPG,"13 Aug, 2013",8,Very Positive,307993,37715,345708
+962130,Grounded,FALSE,Action,Adventure,"28 Jul, 2020",8,Very Positive,17277,2262,19539
+613100,House Flipper,FALSE,Indie,Simulation,"17 May, 2018",8,Very Positive,41234,3322,44556
+546560,Half-Life: Alyx,FALSE,Action,Adventure,"23 Mar, 2020",9,Overwhelmingly Positive,52692,748,53440
+322330,Don't Starve Together,FALSE,Adventure,Indie,"21 Apr, 2016",9,Overwhelmingly Positive,182428,7026,189454
+1049410,Superliminal,FALSE,Adventure,Indie,"5 Nov, 2020",8,Very Positive,10792,586,11378
+107410,Arma 3,FALSE,Aktion,Simulationen,"12 Sep, 2013",8,Very Positive,138901,14359,153260
+1519350,Madden NFL 22,FALSE,Casual,Simulation,"19 Aug, 2021",5,Mixed,730,789,1519
+632360,Risk of Rain 2,FALSE,Action,Indie,"11 Aug, 2020",9,Overwhelmingly Positive,108867,3725,112592
+1732190,FATAL FRAME / PROJECT ZERO: Maiden of Black Water,FALSE,Adventure,#,"27 Oct, 2021",5,Mixed,1602,783,2385
+1134570,F1? 2021,FALSE,Racing,Simulation,"15 Jul, 2021",8,Very Positive,8035,1548,9583
+550,Left 4 Dead 2,FALSE,Action,#,"16 Nov, 2009",9,Overwhelmingly Positive,380672,10247,390919
+4000,Garry's Mod,FALSE,Indie,Simulation,"29 Nov, 2006",9,Overwhelmingly Positive,619434,21349,640783
+1552350,The Jackbox Party Pack 8,FALSE,Indie,#,"13 Oct, 2021",8,Very Positive,207,26,233
+1281590,The Dark Pictures Anthology: House of Ashes,FALSE,Adventure,#,"21 Oct, 2021",8,Very Positive,1543,206,1749
+304390,FOR HONOR?,FALSE,Action,#,"13 Feb, 2017",5,Mixed,41031,21015,62046
+780310,The Riftbreaker,FALSE,Action,Adventure,"14 Oct, 2021",8,Very Positive,5669,497,6166
+581320,Insurgency: Sandstorm,FALSE,Action,#,"12 Dec, 2018",8,Very Positive,54739,8642,63381
+1145360,Hades,FALSE,Action,Indie,"17 Sep, 2020",9,Overwhelmingly Positive,150110,1935,152045
+251570,7 Days to Die,FALSE,Action,Adventure,"13 Dec, 2013",8,Very Positive,114614,16064,130678
+1468810,¹í¹È°Ë»Ä Tale of Immortal,FALSE,Action,Adventure,"27 Jan, 2021",8,Very Positive,89183,13540,102723
+701160,Kingdom Two Crowns,FALSE,Adventure,Indie,"11 Dec, 2018",8,Very Positive,6624,740,7364
+397540,Borderlands 3,FALSE,Action,RPG,"13 Mar, 2020",8,Very Positive,57339,10994,68333
+244210,Assetto Corsa,FALSE,Indie,Racing,"19 Dec, 2014",8,Very Positive,38755,3794,42549
+1149620,Gas Station Simulator,FALSE,Indie,Simulation,"15 Sep, 2021",8,Very Positive,5779,1011,6790
+411300,ELEX,FALSE,Action,Adventure,"17 Oct, 2017",6,Mostly Positive,7054,2715,9769
+454650,DRAGON BALL XENOVERSE 2,FALSE,Action,Adventure,"27 Oct, 2016",8,Very Positive,19094,2844,21938
+435150,Divinity: Original Sin 2 - Definitive Edition,FALSE,Adventure,RPG,"14 Sep, 2017",9,Overwhelmingly Positive,110942,4719,115661
+1129580,Medieval Dynasty,FALSE,Action,Adventure,"23 Sep, 2021",8,Very Positive,15951,1679,17630
+551170,Onmyoji,TRUE,Adventure,RPG,"18 Apr, 2018",6,Mostly Positive,194,65,259
+1328670,Mass Effect? Legendary Edition,FALSE,Action,RPG,"14 May, 2021",8,Very Positive,16767,1386,18153
+1190000,Car Mechanic Simulator 2021,FALSE,Racing,Simulation,"11 Aug, 2021",8,Very Positive,7546,399,7945
+699130,World War Z: Aftermath,FALSE,Action,#,"21 Sep, 2021",6,Mostly Positive,2163,557,2720
+393380,Squad,FALSE,Action,Indie,"23 Sep, 2020",8,Very Positive,61030,6650,67680
+629730,Blade and Sorcery,FALSE,Action,Adventure,"11 Dec, 2018",9,Overwhelmingly Positive,21714,913,22627
+880940,Pummel Party,FALSE,Action,Casual,"20 Sep, 2018",8,Very Positive,23091,2530,25621
+286160,Tabletop Simulator,FALSE,Casual,Indie,"5 Jun, 2015",9,Overwhelmingly Positive,27705,1147,28852
+365590,Tom Clancy¡¯s The Division?,FALSE,Action,Adventure,"7 Mar, 2016",5,Mixed,45805,19708,65513
+223750,DCS World Steam Edition,TRUE,Free to Play,Simulation,"2 Aug, 2013",8,Very Positive,361,64,425
+108600,Project Zomboid,FALSE,Indie,RPG,"8 Nov, 2013",8,Very Positive,34691,3740,38431
+239140,Dying Light,FALSE,Action,RPG,"26 Jan, 2015",9,Overwhelmingly Positive,192703,9949,202652
+555160,Pavlov VR,FALSE,Action,Indie,"27 Feb, 2017",8,Very Positive,23644,1372,25016
+628060,Romance of the Three Kingdoms X with Power Up Kit / Èý‡øÖ¾X with ¥Ñ¥ï©`¥¢¥Ã¥×¥­¥Ã¥È,FALSE,Strategy,#,"5 Dec, 2017",8,Very Positive,238,54,292
+792300,The Beast Inside,FALSE,Action,Adventure,"17 Oct, 2019",8,Very Positive,2718,511,3229
+1465360,SnowRunner,FALSE,Adventure,Simulation,"17 May, 2021",8,Very Positive,3984,730,4714
+292030,The Witcher? 3: Wild Hunt,FALSE,Rol,#,"18 May, 2015",9,Overwhelmingly Positive,504459,10667,515126
+440900,Conan Exiles,FALSE,Action,Adventure,"8 May, 2018",6,Mostly Positive,39576,10900,50476
+835570,Conqueror's Blade,TRUE,Action,Free to Play,"5 Apr, 2020",5,Mixed,1737,2006,3743
+1543030,Sword and Fairy 7,FALSE,Action,Adventure,"21 Oct, 2021",5,Mixed,4456,1933,6389
+1672970,Minecraft Dungeons,FALSE,Action,Adventure,"22 Sep, 2021",8,Very Positive,1381,140,1521
+364360,Total War: WARHAMMER,FALSE,Action,Strategy,"24 May, 2016",6,Mostly Positive,22631,6123,28754
+264710,Subnautica,FALSE,Adventure,Indie,"23 Jan, 2018",9,Overwhelmingly Positive,156839,6196,163035
+753640,Outer Wilds,FALSE,Action,Adventure,"18 Jun, 2020",9,Overwhelmingly Positive,24270,1216,25486
+275850,No Man's Sky,FALSE,Action,Adventure,"12 Aug, 2016",6,Mostly Positive,120159,48667,168826
+1238810,Battlefield V,FALSE,Action,#,"22 Oct, 2020",6,Mostly Positive,47998,20453,68451
+1274570,DEVOUR,FALSE,#,#,"28 Jan, 2021",8,Very Positive,15119,1582,16701
+607050,Wargroove,FALSE,Indie,Strategy,"1 Feb, 2019",8,Very Positive,2773,467,3240
+246620,Plague Inc: Evolved,FALSE,Casual,Indie,"18 Feb, 2016",8,Very Positive,34449,2043,36492
+933110,Age of Empires III: Definitive Edition,FALSE,Strategy,#,"15 Oct, 2020",6,Mostly Positive,14801,4631,19432
+1384160,GUILTY GEAR -STRIVE-,FALSE,Action,#,"11 Jun, 2021",8,Very Positive,11723,1151,12874
+1151640,Horizon Zero Dawn? Complete Edition,FALSE,Action,Adventure,"7 Aug, 2020",8,Very Positive,38129,7629,45758
+1210320,Potion Craft: Alchemist Simulator,FALSE,Indie,Simulation,"21 Sep, 2021",8,Very Positive,4148,290,4438
+628080,Romance of the Three Kingdoms XII with Power Up Kit,FALSE,Strategy,#,"16 Jan, 2018",5,Mixed,110,50,160
+367520,Hollow Knight,FALSE,Action,Adventure,"24 Feb, 2017",9,Overwhelmingly Positive,156550,4619,161169
+49520,Borderlands 2,FALSE,Action,RPG,"20 Sep, 2012",9,Overwhelmingly Positive,158331,8223,166554
+823500,BONEWORKS,FALSE,Action,Adventure,"10 Dec, 2019",8,Very Positive,20732,1913,22645
+552500,Warhammer: Vermintide 2,FALSE,Action,Indie,"8 Mar, 2018",8,Very Positive,48746,10177,58923
+219990,Grim Dawn,FALSE,Action,Adventure,"25 Feb, 2016",8,Very Positive,53490,3839,57329
+1509960,PICO PARK,FALSE,Action,Casual,"7 May, 2021",8,Very Positive,5379,505,5884
+1325200,Nioh 2 ¨C The Complete Edition,FALSE,Action,RPG,"5 Feb, 2021",8,Very Positive,13831,2229,16060
+475550,Beholder,TRUE,Adventure,Indie,"9 Nov, 2016",8,Very Positive,13963,1325,15288
+787860,Farming Simulator 19,FALSE,Simulation,#,"19 Nov, 2018",8,Very Positive,43868,2939,46807
+779340,Total War: THREE KINGDOMS,FALSE,Action,Strategy,"23 May, 2019",8,Very Positive,37988,6982,44970
+297000,Heroes? of Might & Magic? III - HD Edition,FALSE,RPG,Strategy,"28 Jan, 2015",6,Mostly Positive,8760,2689,11449
+262060,Darkest Dungeon?,FALSE,Indie,RPG,"19 Jan, 2016",8,Very Positive,81725,8284,90009
+1282590,Train Sim World? 2,FALSE,Simulation,#,"20 Aug, 2020",8,Very Positive,3522,641,4163
+1359090,Zero Hour,FALSE,Action,Simulation,"12 Aug, 2020",8,Very Positive,12558,2350,14908
+1259420,Days Gone,FALSE,Action,Adventure,"17 May, 2021",8,Very Positive,14198,1099,15297
+620,Portal 2,FALSE,Action,Adventure,"18 Apr, 2011",9,Overwhelmingly Positive,211491,2584,214075
+244850,Space Engineers,FALSE,Action,Indie,"28 Feb, 2019",8,Very Positive,70242,8468,78710
+9900,Star Trek Online,TRUE,Free to Play,Massively Multiplayer,"31 Jan, 2012",6,Mostly Positive,560,191,751
+1102190,Monster Train,FALSE,Strategy,#,"21 May, 2020",9,Overwhelmingly Positive,12423,419,12842
+848450,Subnautica: Below Zero,FALSE,Adventure,Indie,"13 May, 2021",8,Very Positive,46876,4467,51343
+508440,Totally Accurate Battle Simulator,FALSE,Indie,Simulation,"1 Apr, 2021",9,Overwhelmingly Positive,66713,1350,68063
+513710,SCUM,FALSE,Action,Adventure,"29 Aug, 2018",6,Mostly Positive,39292,13748,53040
+960170,DJMAX RESPECT V,FALSE,Action,Casual,"11 Mar, 2020",8,Very Positive,12004,1753,13757
+1118200,People Playground,FALSE,Action,Casual,"23 Jul, 2019",9,Overwhelmingly Positive,66693,707,67400
+898920,Axis & Allies 1942 Online,FALSE,Strategy,#,"9 Nov, 2021",6,Mostly Positive,2013,605,2618
+47890,The Sims? 3,FALSE,Simulation,#,"27 Jan, 2011",8,Very Positive,19378,3312,22690
+1173800,FINAL FANTASY IV,FALSE,RPG,#,"8 Sep, 2021",8,Very Positive,661,123,784
+22380,Fallout: New Vegas,FALSE,Action,RPG,"21 Oct, 2010",9,Overwhelmingly Positive,108449,4131,112580
+784080,MechWarrior 5: Mercenaries,FALSE,Action,Simulation,"26 May, 2021",8,Very Positive,2439,496,2935
+1172450,Carto,FALSE,Adventure,Casual,"27 Oct, 2020",9,Overwhelmingly Positive,2433,49,2482
+546430,Pathway,FALSE,Adventure,Indie,"11 Apr, 2019",6,Mostly Positive,1170,392,1562
+881100,Noita,FALSE,Action,Adventure,"15 Oct, 2020",9,Overwhelmingly Positive,32776,1500,34276
+977950,A Dance of Fire and Ice,FALSE,Indie,#,"24 Jan, 2019",8,Very Positive,26487,1740,28227
+24010,Train Simulator 2022,FALSE,Simulation,#,"30 Sep, 2021",5,Mixed,10041,4523,14564
+431240,Golf With Your Friends,FALSE,Casual,Indie,"19 May, 2020",8,Very Positive,27183,2888,30071
+389730,TEKKEN 7,FALSE,Action,Sports,"1 Jun, 2017",8,Very Positive,33726,7402,41128
+509980,BIGFOOT,FALSE,Action,Adventure,"31 Jan, 2017",6,Mostly Positive,6422,1759,8181
+469600,Legion TD 2 - Multiplayer Tower Defense,FALSE,Casual,Indie,"1 Oct, 2021",8,Very Positive,4145,850,4995
+1124300,HUMANKIND?,FALSE,Strategy,#,"17 Aug, 2021",5,Mixed,8393,3869,12262
+1380220,Starsand,FALSE,Action,Adventure,"4 Nov, 2021",6,Mostly Positive,126,49,175
+375530,"Football, Tactics & Glory",FALSE,Indie,Simulation,"1 Jun, 2018",8,Very Positive,2493,248,2741
+1046480,THE IDOLM@STER STARLIT SEASON,FALSE,Simulation,#,"13 Oct, 2021",9,Overwhelmingly Positive,1567,69,1636
+1507720,M?rchen Forest,FALSE,Adventure,Indie,"27 Jan, 2021",8,Very Positive,95,9,104
+291480,Warface,TRUE,Action,Adventure,"1 Jul, 2014",5,Mixed,575,381,956
+936790,Life is Strange: True Colors,FALSE,Action,Adventure,"9 Sep, 2021",8,Very Positive,4247,468,4715
+242920,Banished,FALSE,Indie,Simulation,"18 Feb, 2014",8,Very Positive,28756,3270,32026
+1484720,Dead Estate,FALSE,Action,Indie,"19 Oct, 2021",8,Very Positive,387,14,401
+611790,House Party,FALSE,Adventure,Casual,"30 Jun, 2017",8,Very Positive,8358,1062,9420
+359320,Elite Dangerous,FALSE,Action,Adventure,"2 Apr, 2015",6,Mostly Positive,44995,13680,58675
+646570,Slay the Spire,FALSE,Indie,Strategy,"23 Jan, 2019",9,Overwhelmingly Positive,83627,1779,85406
+1217060,Gunfire Reborn,FALSE,Action,Adventure,"22 May, 2020",8,Very Positive,42901,2717,45618
+1426450,Age of Darkness: Final Stand,FALSE,Strategy,Early Access,"7 Oct, 2021",8,Very Positive,1372,165,1537
+728880,Overcooked! 2,FALSE,Action,Casual,"7 Aug, 2018",8,Very Positive,21362,2215,23577
+746850,Cloudpunk,FALSE,Adventure,Indie,"23 Apr, 2020",8,Very Positive,7357,807,8164
+1287840,Disciples: Liberation,FALSE,RPG,Strategy,"21 Oct, 2021",8,Very Positive,535,125,660
+1404210,Red Dead Online,FALSE,Action,Adventure,"1 Dec, 2020",8,Very Positive,23606,4824,28430
+470220,UNO,FALSE,Casual,#,"3 Jan, 2017",6,Mostly Positive,19185,7270,26455
+268910,Cuphead,FALSE,Action,Indie,"29 Sep, 2017",9,Overwhelmingly Positive,68463,2522,70985
+782330,DOOM Eternal,FALSE,Action,#,"19 Mar, 2020",8,Very Positive,110782,11332,122114
+774171,Muse Dash,FALSE,Action,Casual,"19 Jun, 2019",9,Overwhelmingly Positive,44968,1534,46502
+1252330,DEATHLOOP,FALSE,Action,#,"13 Sep, 2021",6,Mostly Positive,7158,2215,9373
+635260,CarX Drift Racing Online,FALSE,Massively Multiplayer,Racing,"17 Nov, 2017",8,Very Positive,28034,1497,29531
+1099410,A Total War Saga: TROY,FALSE,Action,Simulation,"2 Sep, 2021",6,Mostly Positive,782,315,1097
+493520,GTFO,FALSE,Action,Early Access,"9 Dec, 2019",8,Very Positive,18325,2359,20684
+1173790,FINAL FANTASY III,FALSE,RPG,#,"28 Jul, 2021",8,Very Positive,793,49,842
+505460,Foxhole,FALSE,Action,Indie,"27 Jul, 2017",8,Very Positive,14709,2927,17636
+349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,FALSE,Action,Adventure,"4 Feb, 2016",8,Very Positive,42826,4646,47472
+488860,MADNESS: Project Nexus,FALSE,Action,Indie,"29 Sep, 2021",9,Overwhelmingly Positive,4683,148,4831
+611670,The Elder Scrolls V: Skyrim VR,FALSE,RPG,#,"2 Apr, 2018",6,Mostly Positive,3988,1266,5254
+692850,Bloodstained: Ritual of the Night,FALSE,Action,Adventure,"18 Jun, 2019",9,Overwhelmingly Positive,20388,1058,21446
+457140,Oxygen Not Included,FALSE,Indie,Simulation,"30 Jul, 2019",9,Overwhelmingly Positive,67497,2552,70049
+601150,Devil May Cry 5,FALSE,Action,#,"7 Mar, 2019",8,Very Positive,39160,2203,41363
+313120,Stranded Deep,FALSE,Adventure,Indie,"23 Jan, 2015",6,Mostly Positive,22998,7063,30061
+763890,Wildermyth,FALSE,Indie,RPG,"15 Jun, 2021",9,Overwhelmingly Positive,7801,370,8171
+1366540,Dyson Sphere Program,FALSE,Indie,Simulation,"20 Jan, 2021",9,Overwhelmingly Positive,45064,1005,46069
+378540,The Surge,FALSE,Action,RPG,"15 May, 2017",6,Mostly Positive,4078,1229,5307
+1196590,Resident Evil Village,FALSE,Action,#,"6 May, 2021",9,Overwhelmingly Positive,37512,1736,39248
+361420,ASTRONEER,FALSE,Adventure,Indie,"5 Feb, 2019",8,Very Positive,64135,6347,70482
+1088790,Rebel Inc: Escalation,FALSE,Casual,Indie,"13 Oct, 2021",8,Very Positive,2556,564,3120
+310950,Street Fighter V,FALSE,Action,#,"15 Feb, 2016",5,Mixed,13903,6599,20502
+1406990,NEKOPARA Vol. 4,FALSE,Adventure,Casual,"26 Nov, 2020",9,Overwhelmingly Positive,5762,123,5885
+285900,Gang Beasts,FALSE,Action,Adventure,"12 Dec, 2017",6,Mostly Positive,21185,5946,27131
+412020,Metro Exodus,FALSE,Action,#,"14 Feb, 2020",8,Very Positive,49366,6487,55853
+42700,Call of Duty?: Black Ops,FALSE,Action,#,"9 Nov, 2010",8,Very Positive,8978,999,9977
+633230,NARUTO TO BORUTO: SHINOBI STRIKER,FALSE,Action,#,"30 Aug, 2018",8,Very Positive,22542,3812,26354
+761890,Albion Online,TRUE,Free to Play,Massively Multiplayer,"16 May, 2018",6,Mostly Positive,1234,483,1717
+1172380,STAR WARS Jedi: Fallen Order?,FALSE,Action,Adventure,"14 Nov, 2019",8,Very Positive,60838,6544,67382
+997010,Police Simulator: Patrol Officers,FALSE,Simulation,Early Access,"17 Jun, 2021",8,Very Positive,3221,507,3728
+599140,Graveyard Keeper,FALSE,Adventure,Indie,"15 Aug, 2018",8,Very Positive,16317,2756,19073
+674940,Stick Fight: The Game,FALSE,Action,Casual,"28 Sep, 2017",8,Very Positive,63099,4335,67434
+322190,SteamWorld Heist,FALSE,Action,Adventure,"7 Jun, 2016",9,Overwhelmingly Positive,2271,86,2357
+214950,Total War?: ROME II - Emperor Edition,FALSE,Strategy,#,"2 Sep, 2013",8,Very Positive,31576,5781,37357
+1509510,Settlement Survival,FALSE,Simulation,Strategy,"11 Oct, 2021",8,Very Positive,915,114,1029
+673750,Super Bunny Man,FALSE,Action,Indie,"31 Aug, 2017",8,Very Positive,1785,241,2026
+681280,Descenders,FALSE,Action,Racing,"7 May, 2019",9,Overwhelmingly Positive,6764,330,7094
+391540,Undertale,FALSE,Indie,RPG,"15 Sep, 2015",9,Overwhelmingly Positive,140408,4830,145238
+648350,Jurassic World Evolution,FALSE,Simulation,Strategy,"11 Jun, 2018",8,Very Positive,34907,5843,40750
+812140,Assassin's Creed? Odyssey,FALSE,Action,Adventure,"5 Oct, 2018",8,Very Positive,86998,10271,97269
+872410,ROMANCE OF THE THREE KINGDOMS XIV,FALSE,Simulation,#,"15 Jan, 2020",5,Mixed,5128,3774,8902
+8930,Sid Meier's Civilization? V,FALSE,Strategy,#,"23 Sep, 2010",9,Overwhelmingly Positive,105626,4288,109914
+495420,State of Decay 2: Juggernaut Edition,FALSE,Action,RPG,"13 Mar, 2020",8,Very Positive,19645,4839,24484
+824270,KovaaK 2.0,FALSE,Action,Indie,"3 Apr, 2018",8,Very Positive,18023,1413,19436
+1150690,OMORI,FALSE,Adventure,Indie,"25 Dec, 2020",9,Overwhelmingly Positive,23723,333,24056
+376210,The Isle,FALSE,Action,Adventure,"1 Dec, 2015",8,Very Positive,34181,6884,41065
+588650,Dead Cells,FALSE,Action,Indie,"6 Aug, 2018",9,Overwhelmingly Positive,72091,2308,74399
+12210,Grand Theft Auto IV: The Complete Edition,FALSE,Action,Adventure,"24 Mar, 2020",6,Mostly Positive,57975,19355,77330
+1030840,Mafia: Definitive Edition,FALSE,Action,Adventure,"24 Sep, 2020",8,Very Positive,21501,3453,24954
+418240,Shadow Tactics: Blades of the Shogun,FALSE,Indie,Strategy,"6 Dec, 2016",9,Overwhelmingly Positive,22067,877,22944
+684410,Bridge Constructor Portal,FALSE,Simulation,Strategy,"20 Dec, 2017",8,Very Positive,2812,278,3090
+1127500,Mini Motorways,FALSE,Casual,Indie,"20 Jul, 2021",9,Overwhelmingly Positive,7600,392,7992
+805550,Assetto Corsa Competizione,FALSE,Racing,Simulation,"29 May, 2019",8,Very Positive,10322,1128,11450
+719040,Wasteland 3,FALSE,RPG,Strategy,"27 Aug, 2020",8,Very Positive,7436,1565,9001
+418370,Resident Evil 7 Biohazard,FALSE,Action,Adventure,"23 Jan, 2017",8,Very Positive,33264,1918,35182
+602960,Barotrauma,FALSE,Action,Indie,"5 Jun, 2019",8,Very Positive,11620,956,12576
+1566390,Seed of the Dead: Sweet Home,FALSE,Action,#,"27 Aug, 2021",8,Very Positive,1024,214,1238
+952860,ºÓÂåÈº‚b‚÷ (Ho Tu Lo Shu £º The Books of Dragon),FALSE,Adventure,RPG,"14 Nov, 2018",8,Very Positive,4759,1120,5879
+1372530,Fly Corp,FALSE,Indie,Simulation,"28 May, 2021",8,Very Positive,135,19,154
+821880,Idol Manager,FALSE,Indie,Simulation,"26 Jul, 2021",8,Very Positive,1469,198,1667
+1144400,Senren£ªBanka,FALSE,Adventure,Casual,"14 Feb, 2020",9,Overwhelmingly Positive,6622,46,6668
+1338770,Sniper Ghost Warrior Contracts 2,FALSE,Action,#,"4 Jun, 2021",8,Very Positive,2671,526,3197
+1369630,ENDER LILIES: Quietus of the Knights,FALSE,Action,Indie,"21 Jun, 2021",9,Overwhelmingly Positive,10421,533,10954
+231430,Company of Heroes 2,FALSE,Strategy,#,"25 Jun, 2013",6,Mostly Positive,42252,10696,52948
+621060,PC Building Simulator,FALSE,Indie,Simulation,"29 Jan, 2019",8,Very Positive,29833,1743,31576
+1173770,FINAL FANTASY,FALSE,RPG,#,"28 Jul, 2021",8,Very Positive,2251,167,2418
+976310,Mortal Kombat?11,FALSE,Action,#,"23 Apr, 2019",8,Very Positive,34756,5609,40365
+1062160,Poly Bridge 2,FALSE,Indie,Simulation,"28 May, 2020",9,Overwhelmingly Positive,3574,122,3696
+1106840,Hydroneer,FALSE,Adventure,Casual,"8 May, 2020",8,Very Positive,6639,939,7578
+899770,Last Epoch,FALSE,Action,Adventure,"30 Apr, 2019",8,Very Positive,7590,1057,8647
+1125240,Ancient Dungeon,FALSE,Action,Adventure,"3 Nov, 2021",8,Very Positive,118,1,119
+901583,Grand Theft Auto IV: Complete Edition,FALSE,Action,Adventure,#,6,Mostly Positive,57975,19355,77330
+578650,The Outer Worlds,FALSE,RPG,#,"23 Oct, 2020",8,Very Positive,11740,1947,13687
+321960,Might & Magic? Heroes? VII,FALSE,RPG,Strategy,"29 Sep, 2015",5,Mixed,2528,2224,4752
+212500,The Lord of the Rings Online?,TRUE,Action,Adventure,"6 Jun, 2012",8,Very Positive,140,29,169
+804010,SteamWorld Quest: Hand of Gilgamech,FALSE,Adventure,RPG,"31 May, 2019",8,Very Positive,858,106,964
+1696810,RAILROADS Online!,FALSE,Indie,Simulation,"1 Oct, 2021",8,Very Positive,715,156,871
+677620,Splitgate,TRUE,Action,Free to Play,"24 May, 2019",8,Very Positive,137,12,149
+644930,They Are Billions,FALSE,Strategy,#,"18 Jun, 2019",8,Very Positive,27488,4840,32328
+383980,Rivals of Aether,FALSE,Indie,#,"28 Mar, 2017",9,Overwhelmingly Positive,17399,771,18170
+985830,SUCCUBUS,FALSE,Action,Adventure,"5 Oct, 2021",8,Very Positive,1256,185,1441
+682990,Drug Dealer Simulator,FALSE,Action,Adventure,"16 Apr, 2020",8,Very Positive,8090,1190,9280
+655500,MX Bikes,FALSE,Racing,Simulation,"7 Oct, 2019",8,Very Positive,3349,205,3554
+220200,Kerbal Space Program,FALSE,Indie,Simulation,"27 Apr, 2015",8,Very Positive,74162,4094,78256
+202970,Call of Duty?: Black Ops II,FALSE,Action,#,"12 Nov, 2012",8,Very Positive,10438,1928,12366
+268500,XCOM? 2,FALSE,Strategy,#,"4 Feb, 2016",8,Very Positive,42828,7710,50538
+1562420,FOREWARNED,FALSE,Action,Adventure,"10 Sep, 2021",8,Very Positive,1023,108,1131
+387990,Scrap Mechanic,FALSE,Action,Adventure,"19 Jan, 2016",8,Very Positive,65425,5184,70609
+720620,TaleSpire,FALSE,Indie,RPG,"14 Apr, 2021",9,Overwhelmingly Positive,1202,62,1264
+1254120,Bless Unleashed,TRUE,Action,Free to Play,"6 Aug, 2021",5,Mixed,123,74,197
+203770,Crusader Kings II,TRUE,Free to Play,RPG,"14 Feb, 2012",8,Very Positive,27384,2302,29686
+816020,JUMP FORCE,FALSE,Action,#,"14 Feb, 2019",6,Mostly Positive,8818,3259,12077
+335300,DARK SOULS? II: Scholar of the First Sin,FALSE,Action,RPG,"1 Apr, 2015",8,Very Positive,41042,6367,47409
+333600,NEKOPARA Vol. 1,FALSE,Casual,Indie,"29 Dec, 2014",9,Overwhelmingly Positive,19669,811,20480
+466560,Northgard,FALSE,Indie,Simulation,"7 Mar, 2018",8,Very Positive,27381,3722,31103
+1211630,The Jackbox Party Pack 7,FALSE,Casual,Indie,"14 Oct, 2020",9,Overwhelmingly Positive,2182,65,2247
+1307550,Craftopia,FALSE,Action,Adventure,"4 Sep, 2020",8,Very Positive,9617,1975,11592
+524220,NieR:Automata?,FALSE,Action,RPG,"17 Mar, 2017",8,Very Positive,58843,10593,69436
+1235140,Yakuza: Like a Dragon,FALSE,Action,Adventure,"10 Nov, 2020",9,Overwhelmingly Positive,9872,362,10234
+379430,Kingdom Come: Deliverance,FALSE,Action,Adventure,"13 Feb, 2018",8,Very Positive,50162,11551,61713
+240720,Getting Over It with Bennett Foddy,FALSE,Action,#,"6 Dec, 2017",8,Very Positive,29840,6111,35951
+227940,Heroes & Generals,TRUE,Action,Free to Play,"18 Oct, 2016",5,Mixed,1531,981,2512
+493340,Planet Coaster,FALSE,Action,Adventure,"17 Nov, 2016",8,Very Positive,37384,3904,41288
+200210,Realm of the Mad God Exalt,TRUE,Action,Free to Play,"20 Feb, 2012",8,Very Positive,167,40,207
+1139980,Travellers Rest,FALSE,Adventure,Casual,"28 Jul, 2020",8,Very Positive,1591,122,1713
+1400970,The Elder Scrolls Online - Blackwood,FALSE,Massively Multiplayer,RPG,"1 Jun, 2021",5,Mixed,143,141,284
+424030,War of Rights,FALSE,Action,Indie,"3 Dec, 2018",8,Very Positive,4992,842,5834
+1113570,Voice of Cards: The Isle Dragon Roars,FALSE,RPG,Strategy,"28 Oct, 2021",8,Very Positive,324,81,405
+1227530,Partisans 1941,FALSE,Indie,Strategy,"14 Oct, 2020",8,Very Positive,3064,547,3611
+946720,To The Rescue!,FALSE,Casual,Indie,"2 Nov, 2021",6,Mostly Positive,304,111,415
+1173780,FINAL FANTASY II,FALSE,RPG,#,"28 Jul, 2021",6,Mostly Positive,609,179,788
+1493760,Youtubers Life 2,FALSE,Adventure,Casual,"19 Oct, 2021",5,Mixed,341,165,506
+690790,DiRT Rally 2.0,FALSE,Racing,Simulation,"25 Feb, 2019",8,Very Positive,14725,2516,17241
+939850,The Dark Pictures Anthology: Man of Medan,FALSE,Adventure,#,"29 Aug, 2019",6,Mostly Positive,3648,1412,5060
+1372280,MELTY BLOOD: TYPE LUMINA,FALSE,Action,#,"29 Sep, 2021",8,Very Positive,2847,460,3307
+602520,NEKOPARA Vol. 3,FALSE,Casual,Indie,"25 May, 2017",9,Overwhelmingly Positive,9920,281,10201
+750920,Shadow of the Tomb Raider: Definitive Edition,FALSE,Action,Adventure,"14 Sep, 2018",8,Very Positive,36389,6354,42743
+527230,For The King,FALSE,Adventure,Indie,"19 Apr, 2018",8,Very Positive,14568,1933,16501
+573090,Stormworks: Build and Rescue,FALSE,Simulation,#,"17 Sep, 2020",8,Very Positive,18211,1515,19726
+218230,PlanetSide 2,TRUE,Action,Free to Play,"20 Nov, 2012",6,Mostly Positive,454,162,616
+860510,Little Nightmares II,FALSE,Adventure,#,"10 Feb, 2021",9,Overwhelmingly Positive,11849,573,12422
+304050,Trove,TRUE,Action,Adventure,"9 Jul, 2015",6,Mostly Positive,806,247,1053
+933820,Endzone - A World Apart,FALSE,Indie,Simulation,"18 Mar, 2021",6,Mostly Positive,3331,990,4321
+1179060,Wing of Darkness,FALSE,Action,Indie,"2 Jun, 2021",5,Mixed,51,76,127
+1668080,Fl?klypa Grand Prix,FALSE,Action,Racing,"4 Nov, 2021",5,Mixed,67,78,145
+1237970,Titanfall? 2,FALSE,Aktion,#,"18 Jan, 2020",9,Overwhelmingly Positive,72637,3605,76242
+617290,Remnant: From the Ashes,FALSE,Action,Adventure,"19 Aug, 2019",8,Very Positive,28096,4943,33039
+1446650,BRAVELY DEFAULT II,FALSE,Adventure,RPG,"2 Sep, 2021",8,Very Positive,376,51,427
+3590,Plants vs. Zombies GOTY Edition,FALSE,Strategy,#,"5 May, 2009",9,Overwhelmingly Positive,56520,1895,58415
+571740,Golf It!,FALSE,Casual,Indie,"17 Feb, 2017",8,Very Positive,11388,1389,12777
+1113000,Persona 4 Golden,FALSE,RPG,#,"13 Jun, 2020",9,Overwhelmingly Positive,43268,1218,44486
+678950,DRAGON BALL FighterZ,FALSE,Action,#,"26 Jan, 2018",8,Very Positive,28962,3163,32125
+900883,The Elder Scrolls IV: Oblivion? Game of the Year Edition Deluxe,FALSE,#,#,"16 Jun, 2009",9,Overwhelmingly Positive,25291,1173,26464
+1237950,STAR WARS? Battlefront? II,FALSE,Action,Adventure,"11 Jun, 2020",8,Very Positive,20332,2331,22663
+208650,Batman?: Arkham Knight,FALSE,Action,Adventure,"23 Jun, 2015",8,Very Positive,39472,5837,45309
+1674170,Sprocket,FALSE,Action,Indie,"26 Aug, 2021",8,Very Positive,2936,187,3123
+434170,The Jackbox Party Pack 3,FALSE,Casual,Indie,"17 Oct, 2016",9,Overwhelmingly Positive,3172,102,3274
+851850,DRAGON BALL Z: KAKAROT,FALSE,Action,RPG,"16 Jan, 2020",8,Very Positive,19848,1555,21403
+232890,Stronghold Crusader 2,FALSE,Simulation,Strategy,"22 Sep, 2014",6,Mostly Positive,5659,2393,8052
+1222680,Need for Speed? Heat,FALSE,Action,Adventure,"4 Jun, 2020",8,Very Positive,23552,4303,27855
+1432860,Sun Haven,FALSE,Adventure,Casual,"25 Jun, 2021",8,Very Positive,1148,125,1273
+233860,Kenshi,FALSE,Action,Indie,"6 Dec, 2018",8,Very Positive,39700,2218,41918
+1454400,Cookie Clicker,FALSE,Casual,Indie,"1 Sep, 2021",9,Overwhelmingly Positive,15381,371,15752
+1029780,Going Medieval,FALSE,Indie,RPG,"1 Jun, 2021",8,Very Positive,6160,755,6915
+562810,MONOPOLY? PLUS,FALSE,Casual,#,"7 Sep, 2017",5,Mixed,3146,4097,7243
+1222690,Dragon Age? Inquisition,FALSE,Action,Adventure,"4 Jun, 2020",6,Mostly Positive,4446,1487,5933
+232090,Killing Floor 2,FALSE,Action,#,"18 Nov, 2016",8,Very Positive,61215,7661,68876
+380600,Fishing Planet,TRUE,Free to Play,Massively Multiplayer,"28 Aug, 2017",5,Mixed,302,158,460
+645630,Car Mechanic Simulator 2018,FALSE,Racing,Simulation,"28 Jul, 2017",8,Very Positive,33375,3659,37034
+433340,Slime Rancher,FALSE,Action,Adventure,"1 Aug, 2017",9,Overwhelmingly Positive,65907,1488,67395
+637650,FINAL FANTASY XV WINDOWS EDITION,FALSE,RPG,#,"6 Mar, 2018",8,Very Positive,23603,5166,28769
+230290,Universe Sandbox,FALSE,Casual,Indie,"24 Aug, 2015",9,Overwhelmingly Positive,12641,588,13229
+1447000,MotoGP?21,FALSE,Racing,Simulation,"22 Apr, 2021",8,Very Positive,565,138,703
+1229490,ULTRAKILL,FALSE,Action,Indie,"3 Sep, 2020",9,Overwhelmingly Positive,14581,93,14674
+1227690,Severed Steel,FALSE,Action,Indie,"17 Sep, 2021",8,Very Positive,621,53,674
+1110910,Mortal Shell,FALSE,Action,RPG,"18 Aug, 2021",6,Mostly Positive,1261,400,1661
+438100,VRChat,TRUE,Adventure,Casual,"1 Feb, 2017",8,Very Positive,130,25,155
+1271700,HOT WHEELS UNLEASHED?,FALSE,Racing,#,"30 Sep, 2021",8,Very Positive,1069,221,1290
+841190,"Honey, I Joined a Cult",FALSE,Casual,Indie,"14 Sep, 2021",8,Very Positive,341,83,424
+1194630,The Dark Pictures Anthology: Little Hope,FALSE,Adventure,#,"29 Oct, 2020",6,Mostly Positive,2486,886,3372
+814370,Monster Sanctuary,FALSE,Action,Adventure,"8 Dec, 2020",8,Very Positive,3422,269,3691
+204360,Castle Crashers?,FALSE,Action,Adventure,"26 Sep, 2012",9,Overwhelmingly Positive,60348,2285,62633
+219740,Don't Starve,FALSE,Adventure,Indie,#,9,Overwhelmingly Positive,73858,2427,76285
+1238860,Battlefield 4?,FALSE,Action,#,"11 Jun, 2020",8,Very Positive,24215,3731,27946
+1199030,Tainted Grail: Conquest,FALSE,Action,Indie,"27 May, 2021",8,Very Positive,3692,337,4029
+953880,First Class Trouble,FALSE,Indie,#,"1 Nov, 2021",6,Mostly Positive,1156,312,1468
+109600,Neverwinter,TRUE,Adventure,Free to Play,"5 Dec, 2013",6,Mostly Positive,240,71,311
+858820,Tribes of Midgard,FALSE,Action,Adventure,"27 Jul, 2021",6,Mostly Positive,6310,1972,8282
+1361000,In Silence,FALSE,Action,#,"29 Oct, 2021",8,Very Positive,5336,1293,6629
+211820,Starbound,FALSE,Action,Adventure,"22 Jul, 2016",8,Very Positive,69721,6438,76159
+1066780,Transport Fever 2,FALSE,Simulation,Strategy,"11 Dec, 2019",8,Very Positive,10251,1547,11798
+22330,The Elder Scrolls IV: Oblivion? Game of the Year Edition,FALSE,RPG,#,"16 Jun, 2009",9,Overwhelmingly Positive,25291,1173,26464
+1061090,Jump King,FALSE,Action,Adventure,"3 May, 2019",8,Very Positive,5189,535,5724
+1504500,OPUS: Echo of Starsong,FALSE,Adventure,Indie,"31 Aug, 2021",9,Overwhelmingly Positive,2265,52,2317
+640820,Pathfinder: Kingmaker - Enhanced Plus Edition,FALSE,RPG,#,"25 Sep, 2018",6,Mostly Positive,15456,4218,19674
+269950,X-Plane 11,FALSE,Simulation,#,"30 Mar, 2017",8,Very Positive,10532,949,11481
+239030,"Papers, Please",FALSE,Adventure,Indie,"8 Aug, 2013",9,Overwhelmingly Positive,40854,1282,42136
+552520,Far Cry? 5,FALSE,Action,Adventure,"26 Mar, 2018",6,Mostly Positive,81222,21082,102304
+233450,Prison Architect,FALSE,Indie,Simulation,"6 Oct, 2015",8,Very Positive,43439,4136,47575
+916840,The Walking Dead: Saints & Sinners,FALSE,Action,Adventure,"23 Jan, 2020",8,Very Positive,4359,500,4859
+252530,OMSI 2: Steam Edition,FALSE,Casual,Simulation,"11 Dec, 2013",8,Very Positive,3367,808,4175
+261640,Borderlands: The Pre-Sequel,FALSE,Action,RPG,"13 Oct, 2014",8,Very Positive,20313,4069,24382
+644560,Mirror,FALSE,Adventure,Indie,"19 Apr, 2018",9,Overwhelmingly Positive,65363,2113,67476
+464920,Surviving Mars,FALSE,Simulation,Strategy,"15 Mar, 2018",8,Very Positive,10197,1849,12046
+356190,Middle-earth?: Shadow of War?,FALSE,Action,Adventure,"9 Oct, 2017",8,Very Positive,44849,6738,51587
+1186640,Pumpkin Jack,FALSE,Action,Adventure,"23 Oct, 2020",8,Very Positive,2313,140,2453
+10090,Call of Duty: World at War,FALSE,Action,#,"18 Nov, 2008",8,Very Positive,29945,2294,32239
+492720,Tropico 6,FALSE,Simulation,Strategy,"29 Mar, 2019",8,Very Positive,11394,1642,13036
+266840,Age of Mythology: Extended Edition,FALSE,Simulation,Strategy,"8 May, 2014",8,Very Positive,18841,1748,20589
+1455840,Dorfromantik,FALSE,Casual,Indie,"25 Mar, 2021",9,Overwhelmingly Positive,7852,258,8110
+979690,The Ascent,FALSE,Action,Adventure,"29 Jul, 2021",6,Mostly Positive,6980,2120,9100
+1238840,Battlefield 1 ?,FALSE,Action,Massively Multiplayer,"11 Jun, 2020",8,Very Positive,40659,7379,48038
+323190,Frostpunk,FALSE,Simulation,Strategy,"24 Apr, 2018",8,Very Positive,54259,5186,59445
+460930,Tom Clancy's Ghost Recon? Wildlands,FALSE,Action,Adventure,"6 Mar, 2017",6,Mostly Positive,37995,9841,47836
+977880,Eastward,FALSE,Adventure,Indie,"16 Sep, 2021",8,Very Positive,6455,1179,7634
+420110,NEKOPARA Vol. 2,FALSE,Casual,Indie,"19 Feb, 2016",9,Overwhelmingly Positive,9722,253,9975
+1277400,Monster Hunter Stories 2: Wings of Ruin,FALSE,Adventure,RPG,"8 Jul, 2021",6,Mostly Positive,6022,1621,7643
+1191120,Growing Up,FALSE,Casual,Indie,"13 Oct, 2021",8,Very Positive,544,106,650
+386940,Ultimate Chicken Horse,FALSE,Action,Casual,"4 Mar, 2016",9,Overwhelmingly Positive,18247,658,18905
+382310,Eco,FALSE,Indie,Simulation,"6 Feb, 2018",8,Very Positive,5616,1220,6836
+1057090,Ori and the Will of the Wisps,FALSE,Action,#,"10 Mar, 2020",9,Overwhelmingly Positive,66926,2520,69446
+863550,HITMAN? 2,FALSE,Action,#,"13 Nov, 2018",8,Very Positive,23734,2094,25828
+17390,SPORE?,FALSE,Action,Adventure,"19 Dec, 2008",8,Very Positive,32568,3051,35619
+201270,Total War: SHOGUN 2,FALSE,Strategy,#,"15 Mar, 2011",8,Very Positive,22593,2132,24725
+690830,Foundation,FALSE,Indie,Simulation,"1 Feb, 2019",8,Very Positive,7685,1219,8904
+1382330,Persona? 5 Strikers,FALSE,Action,Adventure,"22 Feb, 2021",8,Very Positive,5728,416,6144
+450540,"Hot Dogs, Horseshoes & Hand Grenades",FALSE,Action,Indie,"5 Apr, 2016",9,Overwhelmingly Positive,11944,360,12304
+246900,Viscera Cleanup Detail,FALSE,Indie,Simulation,"23 Oct, 2015",8,Very Positive,9881,700,10581
+1158850,The Great Ace Attorney Chronicles,FALSE,Adventure,#,"28 Jul, 2021",9,Overwhelmingly Positive,1164,49,1213
+607080,Psychonauts 2,FALSE,Action,Adventure,"24 Aug, 2021",9,Overwhelmingly Positive,3525,79,3604
+1147560,Skul: The Hero Slayer,FALSE,Action,Indie,"20 Jan, 2021",8,Very Positive,21336,1495,22831
+325610,Total War: ATTILA,FALSE,Strategy,#,"17 Feb, 2015",8,Very Positive,15177,3771,18948
+476600,Call of Duty?: WWII,FALSE,Action,#,"2 Nov, 2017",5,Mixed,11588,6929,18517
+1259980,RIDE 4,FALSE,Racing,Simulation,"8 Oct, 2020",6,Mostly Positive,2106,631,2737
+253150,Halfway,FALSE,Action,Indie,"22 Jul, 2014",6,Mostly Positive,478,165,643
+690640,Trine 4: The Nightmare Prince,FALSE,Action,Adventure,"8 Oct, 2019",8,Very Positive,6432,643,7075
+1139900,Ghostrunner,FALSE,Action,#,"27 Oct, 2020",8,Very Positive,24001,2184,26185
+400,Portal,FALSE,Action,#,"10 Oct, 2007",9,Overwhelmingly Positive,77588,1256,78844
+1138660,Black Book,FALSE,Adventure,Indie,"10 Aug, 2021",8,Very Positive,1647,97,1744
+955900,Amazing Cultivation Simulator,FALSE,Indie,RPG,"24 Nov, 2020",8,Very Positive,12380,1810,14190
+204880,Sins of a Solar Empire?: Rebellion,FALSE,Action,Indie,"12 Jun, 2012",8,Very Positive,7951,554,8505
+967050,Pacify,FALSE,Action,Adventure,"22 Feb, 2019",8,Very Positive,19024,2468,21492
+1302240,Labyrinthine,FALSE,Action,Adventure,"28 Oct, 2020",8,Very Positive,3669,503,4172
+528230,SYNTHETIK: Legion Rising,FALSE,Action,Indie,"15 Mar, 2018",9,Overwhelmingly Positive,6882,356,7238
+48700,Mount & Blade: Warband,FALSE,Action,RPG,"31 Mar, 2010",9,Overwhelmingly Positive,101806,2301,104107
+365360,Battle Brothers,FALSE,Indie,RPG,"24 Mar, 2017",8,Very Positive,11868,1613,13481
+883710,Resident Evil 2,FALSE,Action,#,"24 Jan, 2019",9,Overwhelmingly Positive,62182,1782,63964
+252410,SteamWorld Dig,FALSE,Action,Adventure,"5 Dec, 2013",8,Very Positive,3330,210,3540
+1390350,Webbed,FALSE,Action,Adventure,"9 Sep, 2021",9,Overwhelmingly Positive,3862,94,3956
+1295510,DRAGON QUEST? XI S: Echoes of an Elusive Age? - Definitive Edition,FALSE,Adventure,RPG,"4 Dec, 2020",8,Very Positive,3245,191,3436
+1549970,Aliens: Fireteam Elite,FALSE,Action,RPG,"23 Aug, 2021",8,Very Positive,8076,1541,9617
+629760,MORDHAU,FALSE,Action,Indie,"29 Apr, 2019",8,Very Positive,64480,14007,78487
+885970,Total War: ROME REMASTERED,FALSE,Strategy,#,"29 Apr, 2021",6,Mostly Positive,4333,1783,6116
+374040,Portal Knights,FALSE,Action,Adventure,"18 May, 2017",8,Very Positive,12089,2466,14555
+774461,The Jackbox Party Pack 5,FALSE,Casual,#,"17 Oct, 2018",8,Very Positive,1219,97,1316
+1618540,Ghost Hunters Corp,FALSE,Indie,Simulation,"15 Jul, 2021",6,Mostly Positive,2227,755,2982
+438740,Friday the 13th: The Game,FALSE,Action,#,"25 May, 2017",6,Mostly Positive,41376,10964,52340
+1522820,Orcs Must Die! 3,FALSE,Action,Adventure,"23 Jul, 2021",8,Very Positive,3399,686,4085
+745920,Temtem,FALSE,Adventure,Indie,"21 Jan, 2020",8,Very Positive,22195,3316,25511
+400750,Call to Arms - Gates of Hell: Ostfront,FALSE,Action,Indie,"11 Jun, 2021",6,Mostly Positive,2264,573,2837
+1016120,PGA TOUR 2K21,FALSE,Simulation,Sports,"20 Aug, 2020",8,Very Positive,3040,589,3629
+917720,Gamedec,FALSE,Adventure,Indie,"16 Sep, 2021",8,Very Positive,309,54,363
+1307890,Kingdoms Reborn,FALSE,Indie,Simulation,"3 Nov, 2020",8,Very Positive,2739,291,3030
+976590,Bus Simulator 21,FALSE,Simulation,#,"7 Sep, 2021",5,Mixed,698,343,1041
+956680,M.A.S.S. Builder,FALSE,Action,Indie,"13 Sep, 2019",8,Very Positive,2101,234,2335
+312660,Sniper Elite 4,FALSE,Action,Adventure,"13 Feb, 2017",8,Very Positive,26489,2838,29327
+1100410,Commandos 2 - HD Remaster,FALSE,Strategy,#,"24 Jan, 2020",5,Mixed,755,625,1380
+641320,Cooking Simulator,FALSE,Simulation,#,"6 Jun, 2019",8,Very Positive,8546,1715,10261
+807120,Iratus: Lord of the Dead,FALSE,Indie,RPG,"23 Apr, 2020",8,Very Positive,4138,666,4804
+1557740,ROUNDS,FALSE,Action,Indie,"1 Apr, 2021",8,Very Positive,3472,201,3673
+504230,Celeste,FALSE,Action,Adventure,"25 Jan, 2018",9,Overwhelmingly Positive,38476,854,39330
+500,Left 4 Dead,FALSE,Action,#,"17 Nov, 2008",9,Overwhelmingly Positive,28337,1219,29556
+502500,ACE COMBAT? 7: SKIES UNKNOWN,FALSE,Action,Simulation,"31 Jan, 2019",8,Very Positive,14886,2484,17370
+992300,ÊÈÑªÓ¡ Bloody Spell,FALSE,Action,Adventure,"15 Jan, 2019",8,Very Positive,14678,2259,16937
+738520,Breathedge,FALSE,Action,Adventure,"25 Feb, 2021",8,Very Positive,8166,1421,9587
+1293180,SuchArt: Genius Artist Simulator,FALSE,Adventure,Casual,"14 Jul, 2021",9,Overwhelmingly Positive,1146,30,1176
+1239080,Door Kickers 2: Task Force North,FALSE,Action,Indie,"3 Nov, 2020",9,Overwhelmingly Positive,3763,119,3882
+594330,Visage,FALSE,Action,Adventure,"29 Oct, 2020",8,Very Positive,4252,574,4826
+1364290,Animalia Survival,FALSE,Action,Adventure,"9 Sep, 2021",5,Mixed,275,120,395
+22370,Fallout 3: Game of the Year Edition,FALSE,RPG,#,"17 Dec, 2009",6,Mostly Positive,20259,5878,26137
+1097150,Fall Guys: Ultimate Knockout,FALSE,Action,Casual,"3 Aug, 2020",8,Very Positive,293266,57087,350353
+322170,Geometry Dash,FALSE,Action,Indie,"22 Dec, 2014",8,Very Positive,137311,8619,145930
+1227280,Despot's Game: Dystopian Army Builder,FALSE,Indie,RPG,"14 Oct, 2021",8,Very Positive,606,73,679
+1290000,PowerWash Simulator,FALSE,Casual,Indie,"19 May, 2021",9,Overwhelmingly Positive,9556,227,9783
+1113560,NieR Replicant? ver.1.22474487139...,FALSE,Action,Adventure,"23 Apr, 2021",8,Very Positive,8701,1338,10039
